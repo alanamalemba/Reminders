@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Reminders</string>
+    <string name="wifi_password">Wifi Password</string>
+    <string name="tablet_pin_password">Tablet Pin</string>
+    <string name="bike_lock_password">Bike Lock</string>
 </resources>
